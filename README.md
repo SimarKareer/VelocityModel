@@ -1,2 +1,2 @@
 # VelocityModel
-Velocity Model for robocup
+Matlab/Simulink Velocity Model for Robocup
